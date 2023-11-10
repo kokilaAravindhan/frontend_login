@@ -1,0 +1,40 @@
+body{
+  background-color: beige;
+}
+
+.col-md-7{
+ 
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  color:rgb(255, 115, 0);
+  flex-direction:row;
+}
+
+.Chart{
+  padding-left: 0%;
+  padding-top: 30px;
+
+}
+.container{
+  padding-top: 30px;
+}
+
+h2{
+  padding-top: 20px;
+  padding-left: 20%;
+  color:rgb(255, 115, 0)
+}
+
+h3{
+  padding-top: 20px;
+  padding-left: 20%;
+}
+.btn,btn-danger{
+  margin-left: 30%;
+  margin-top: 10px;
+}
+
+label{
+  margin-left: 35%;
+}
